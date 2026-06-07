@@ -173,7 +173,7 @@ git push origin feature-name
 
 ## 👨‍💻 Author
 
-**Jucie Wiki**
+**Kizeki-dot**
 
 Aspiring Full-Stack Developer
 
