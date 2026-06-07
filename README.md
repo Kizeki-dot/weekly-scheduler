@@ -21,7 +21,7 @@ A modern and responsive weekly task planner built with HTML, CSS, and JavaScript
 
 ## 📸 Preview
 
-![Weekly Scheduler](screenshot.png)
+![Weekly Scheduler](WeeklyScheduler.png)
 
 ---
 
