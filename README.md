@@ -30,7 +30,7 @@ A modern and responsive weekly task planner built with HTML, CSS, and JavaScript
 If deployed with GitHub Pages:
 
 ```text
-https://yourusername.github.io/weekly-scheduler/
+https://kizeki-dot.github.io/weekly-scheduler/
 ```
 
 ---
@@ -125,7 +125,7 @@ Through this project, I gained experience with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weekly-scheduler.git
+git clone https://github.com/kizeki-dot/weekly-scheduler.git
 ```
 
 Open the project folder:
