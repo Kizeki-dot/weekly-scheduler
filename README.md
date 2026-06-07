@@ -185,7 +185,7 @@ Aspiring Full-Stack Developer
 GitHub:
 
 ```text
-https://github.com/yourusername
+https://github.com/kizeki-dot
 ```
 
 ---
